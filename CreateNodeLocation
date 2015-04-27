@@ -1,4 +1,38 @@
 ###Create Node Location
-
+{
+"nodes": [
+{
+"node": {
+"communication_type": null,
+"controlling_node_id": null,
+"facebook_user_id": null,
+"google_place_id": null,
+"google_user_id": null,
+"netbios_domain": null,
+"netbios_name": null,
+"netbios_role": null,
+"node_alias": null,
+"node_type": "person",
+"visibility": null,
+"device_id": null,
+"neura_id": "ndgrm8gqf",
+"status": "active",
+"type": null,
+"vendor": null,
+"name": "UserProdTester6000",
+"lat": null,
+"lon": null,
+"mac": null,
+"ip": null,
+"created_at": 1429541903,
+"need_auth": false,
+"pending": false,
+"related_nodes": [ ],
+"image": "http://cdn.theneura.com/images/node/defaults/default_person.png",
+"is_me": true
+}
+}
+]
+}
 
 [Return to the Main Page](https://github.com/jenholzer/DevelopersInternal#neura-internal-developer-resources)
