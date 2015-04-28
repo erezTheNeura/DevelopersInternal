@@ -1,7 +1,7 @@
 ###Neura Internal Developer Resources
 This page will link you to resources that will help expedite requests from users.
 
-* [Create node location](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateNodeLocation)  
+* [Create node person](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateNodePerson)  
 * [Create node person](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateNodeLocation)  
 * [Create label](https://github.com/jenholzer/DevelopersInternal/blob/master/CreateLabel)  
 * [Create user]()  
